@@ -5,6 +5,8 @@ public class SampleTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First Machine push 1");
+		
+		System.out.println("Second machine push 1");
 
 	}
 
